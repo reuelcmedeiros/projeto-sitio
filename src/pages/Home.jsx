@@ -5,7 +5,6 @@ import {
   ShoppingBag, Camera, MessageSquare, HelpCircle 
 } from 'lucide-react';
 
-// O segredo está aqui: tem que ter DOIS pontos para voltar uma pasta!
 import CardLink from '../components/CardLink'; 
 
 export default function Home() {
